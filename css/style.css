@@ -87,3 +87,23 @@ hightlights section styles here
   color: #6c6c6c;
   margin-top: -20px;
 }
+footer {
+  width: 400px;
+  margin: 0 auto;
+}
+.footer-logo img {
+  width: 100%;
+  margin: 50px 0;
+}
+footer p {
+  text-align: center;
+}
+.social-icons i {
+  width: 18px;
+  height: 18px;
+  color: #969bab;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: #e7e7e8;
+}
