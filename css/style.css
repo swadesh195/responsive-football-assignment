@@ -35,6 +35,11 @@ body {
   padding: 22px 84px;
   background-color: #e02c6d;
   text-decoration: none;
+  transition: 0.5s;
+}
+.custom-btn:hover {
+  color: #707070;
+  background-color: #fff;
 }
 .header-img img {
   width: 80%;
